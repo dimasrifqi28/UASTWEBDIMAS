@@ -33,7 +33,7 @@ const Footer = () => {
                     <div className="footer__content__menu">
                         <Link to="/">You must watch</Link>
                         <Link to="/">Recent release</Link>
-                        <Link to="/">Top IMDB</Link>
+                        <Link to="/">Top dimas</Link>
                     </div>
                 </div>
             </div>
